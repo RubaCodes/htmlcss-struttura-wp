@@ -21,3 +21,9 @@ section{
     min-height: 600px;
     background-color: #e1d67a;
 }
+footer{
+    min-height: 75px;
+    background-color: #8801fe;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
