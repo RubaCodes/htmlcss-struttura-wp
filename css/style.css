@@ -35,6 +35,18 @@ header{
     display: table;
     clear: both;
 }
+.left-col,.right-col{
+    float: left;
+    width: 20%;
+    min-height: 700px;
+    background-color: #abcfe7;
+}
+.mid-col{
+    float: left;
+    width: 60%;
+    min-height: 700px;
+    background-color: #abcfe7;  
+}
 
 footer{
     min-height: 75px;
