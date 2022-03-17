@@ -14,5 +14,10 @@
 header{
     min-height: 200px;
     background-color: #e579e6;
-    margin-top: 20px;
+    margin: 20px 0;
+}
+
+section{
+    min-height: 600px;
+    background-color: #e1d67a;
 }
