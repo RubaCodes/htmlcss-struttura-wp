@@ -17,10 +17,16 @@ header{
     margin: 20px 0;
 }
 
-section{
+.placeholder-img{
     min-height: 600px;
     background-color: #e1d67a;
 }
+.header-float{
+    min-height: 100px;
+    background-color: #abcfe7;
+    margin-top: 20px;
+}
+
 footer{
     min-height: 75px;
     background-color: #8801fe;
