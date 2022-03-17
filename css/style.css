@@ -10,3 +10,9 @@
     width: 80%;
     margin: auto;
 }
+
+header{
+    min-height: 200px;
+    background-color: #e579e6;
+    margin-top: 20px;
+}
